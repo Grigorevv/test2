@@ -1,9 +1,9 @@
 import { expect, test } from '@jest/globals';
 import add, { sub, mult, div } from './func.js';
 
-test('adds 1 + 2 to equal 3', () => {
+/*test('adds 1 + 2 to equal 3', () => {
   expect(add(1, 2)).toBe(3);
-});
+});*/
 
 test('sub 10 - 10 to equal 0', () => {
   expect(sub(10, 10)).toBe(0);
