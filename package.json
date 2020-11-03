@@ -16,6 +16,7 @@
     "jest": "^26.5.3"
   },
   "dependencies": {
-    "@jest/globals": "^26.5.3"
+    "@jest/globals": "^26.5.3",
+    "axios": "^0.21.0"
   }
 }
