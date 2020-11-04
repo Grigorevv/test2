@@ -1,4 +1,4 @@
-import genDiff from '../backend-project-lvl2/gendiff.js';
+import genDiff from './gendiff.js';
 
 const add = (a, b) => a + b;
 const sub = (a, b) => a - b;
