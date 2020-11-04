@@ -5,7 +5,7 @@ const sub = (a, b) => a - b;
 const mult = (a, b) => a * b;
 const div = (a, b) => a / b;
 
-const diff = genDiff('/home/viktor/test2/f1.json', '/home/viktor/test2/f2.json');
+const diff = genDiff('./f1.json', './f2.json');
 console.log(diff);
 
 export {
